@@ -1,6 +1,6 @@
 # NO LONGER MAINTAINED
 
-This package is no longer maintained. Please use @trudko's [advanced-new-file](https://github.com/Trudko/advanced-new-file) instead.
+This package is no longer maintained. Please use @Osmose's [advanced-open-file](https://atom.io/packages/advanced-open-file) instead.
 
 > Fancy New File is a plugin for Github's Atom text editor that gives you a
 handy dialog (accessible via `alt-cmd-n`) to open or create new files and
